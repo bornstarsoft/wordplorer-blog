@@ -1,7 +1,7 @@
 
 baseURL = "https://wordplorer-blog.pages.dev/"
 languageCode = "en-us"
-title = "Wordplorer-blog Blog"
+title = "Wordplorer Blog"
 theme = "ananke"
 buildFuture = true
 paginate = 10
