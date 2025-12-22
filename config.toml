@@ -1,10 +1,14 @@
 
-baseURL = "https://wordplorer-blog.pages.dev/"
+baseURL = "https://wordplorer.com/"
 languageCode = "en-us"
-title = "Wordplorer Blog"
+title = "Wordplorer"
 theme = "ananke"
-buildFuture = true
-paginate = 10
+
+enableRobotsTXT = true
+buildFuture = false
+
+[pagination]
+pagerSize = 10
 
 [params]
   mainSections = ["posts"]
